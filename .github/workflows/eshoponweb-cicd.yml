@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 26030356-2657-4038-a523-c63bc9dc26f7
   WEBAPP-NAME: az400-webapp-acvdhoeven
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
